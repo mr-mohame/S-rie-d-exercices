@@ -13,4 +13,5 @@ prix = 199
 
 prixElement.textContent= prix + " " + "DH";
 
-nom = "Souris"
+Nom = "Souris"
+// le nom ne change pas car le nom declare comme un const 
