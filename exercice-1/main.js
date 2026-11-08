@@ -1,6 +1,6 @@
 console.log('JS connecté');
 
-const Nom = "Clavier";
+const nom = "Clavier";
 let prix = 250;
 
 const titer = document.getElementById("nom");
@@ -13,5 +13,5 @@ prix = 199
 
 prixElement.textContent= prix + " " + "DH";
 
-Nom = "Souris"
+nom = "Souris"
 // le nom ne change pas car le nom declare comme un const 
