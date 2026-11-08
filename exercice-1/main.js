@@ -8,3 +8,9 @@ const prixElement = document.getElementById("prix");
 
 titer.textContent= Nom ;
 prixElement.textContent= prix + " " + "DH";
+
+prix = 199
+
+prixElement.textContent= prix + " " + "DH";
+
+nom = "Souris"
